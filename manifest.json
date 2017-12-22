@@ -3,13 +3,13 @@
   "name": "ShiffDance Chrome Extension",
   "version": "0.1",
   "web_accessible_resources": [
-    "shifdance/*.gif"
+    "shiffdance/*.gif"
   ],
   "content_scripts": [{
     "matches": [
       "<all_urls>"
     ],
-    "js": ["shifdance.js"]
+    "js": ["shiffdance.js"]
   }]
 
 
