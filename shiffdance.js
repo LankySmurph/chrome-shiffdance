@@ -6,7 +6,7 @@
 console.log('Kittens of the world, unite as one!');
 
 let filenames = [
-  "dshifdance.gif"
+  "shiffdance.gif"
 ];
 
 let imgs = document.getElementsByTagName('img');
