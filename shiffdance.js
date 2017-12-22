@@ -3,7 +3,7 @@
 // http://patreon.com/codingtrain
 
 
-console.log('Kittens of the world, unite as one!');
+console.log('Shiffmans of the world, unity in dance!');
 
 let filenames = [
   "shiffdance.gif"
